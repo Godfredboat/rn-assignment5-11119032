@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
     backgroundColor: "lightgray",
     alignItems: "center",
     justifyContent: "center",
-    left: 70,
+    left: 100,
     top: 17
   },
 
@@ -180,7 +180,7 @@ const styles = StyleSheet.create({
   },
 
   creditCardProperties: {
-    top: 10
+    top: 10,
   },
 
   functionsContainer: {
@@ -247,6 +247,6 @@ const styles = StyleSheet.create({
   },
 
   footerProperties: {
-    top: 60
+    top: 120
   }
 });
